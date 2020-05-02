@@ -10,3 +10,4 @@ Use tabs only if you want to same character while saving file.
 [Reason](https://softwareengineering.stackexchange.com/questions/604/is-the-80-character-limit-still-relevant-in-times-of-widescreen-monitors "Is the 80 character limit still relevant in times of widescreen monitors?").
 4. Use braces like it is used in existing code.
 5. Avoid trailing spaces.
+6. Always end source file with a new line<sup>[[1](https://thoughtbot.com/blog/no-newline-at-end-of-file),[2](https://unix.stackexchange.com/questions/18743/whats-the-point-in-adding-a-new-line-to-the-end-of-a-file),[3](https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline)]</sup>
